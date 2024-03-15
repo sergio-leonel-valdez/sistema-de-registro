@@ -5,3 +5,4 @@
 
 para ejecutar el sistema, debes poner : 
 
+sistema de registro 2
